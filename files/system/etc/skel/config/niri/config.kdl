@@ -1,0 +1,9 @@
+
+// =====================================================================
+// DMS SHELL INCLUDES (DMS controls themes, default binds, layouts)
+// Use `optional=true` so Niri doesn't crash if DMS hasn't generated them yet
+// =====================================================================
+include optional=true "dms/colors.kdl"
+include optional=true "dms/layout.kdl"
+include optional=true "dms/alttab.kdl"
+include optional=true "dms/binds.kdl"
