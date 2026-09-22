@@ -6,7 +6,7 @@ name: bazzite-dms
 description: Bazzite shipped with dank material shell
 
 # the base image to build on top of (FROM) and the version tag to use
-base-image: ghcr.io/ublue-os/bazzite-dx
+base-image: ghcr.io/ublue-os/bazzite-dx-gnome
 image-version: latest # You can pin to a specific version of Fedora as well
 
 # module configuration, executed in order
