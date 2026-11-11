@@ -20,8 +20,8 @@ modules:
   - type: dnf
     repos:
       copr:
-        - avengemedia/dms
-        - avengemedia/danklinux
+        - duxlabs/dms
+        - duxlabs/dux-repo
     install:
       packages:
         - cliphist
